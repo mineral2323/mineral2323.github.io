@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+
+header{
+    display: flex;
+}
+.menu{
+    margin: 1vw;
+}
+
+div{
+    color: white;  
+}
+
+.myimg{
+    width: 20vw;
+    height: auto;
+    text-align: center;
+}
+
+.myinfotxt{
+    
+}
+.myinfo{
+    width: 30vw;
+    
+}
+.main{
+    display: flex;
+}
+.SNSinfo{
+    display: inline-flex;
+    width: 100px;
+    height: 100px;
+    border-color: white;
+    border: 1px solid;
+    border-radius: 10%;
+    justify-content: center;
+    align-items: center;
+}
+.SNSimg{
+    width: 85%;
+    height: 85%;
+    
+}
